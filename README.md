@@ -20,8 +20,7 @@ This Python script automates the process of downloading mods for a Minecraft Fab
 ## Requirements
 
 -   Python 3.6+
--   The `requests` library
--   The `rapidfuzz` library
+-   The `requests` and `rapidfuzz` libraries
 
 ## How to Use
 
@@ -30,7 +29,7 @@ This Python script automates the process of downloading mods for a Minecraft Fab
 First, install the required Python library using pip:
 
 ```bash
-pip install requests
+pip install requests rapidfuzz
 ```
 
 ### 2. (Optional) Create an Override File
