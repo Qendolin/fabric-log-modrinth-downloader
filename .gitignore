@@ -1,3 +1,6 @@
 *.log
 *.txt
 *.json
+*.jar
+
+downloaded_mods/
